@@ -1,9 +1,13 @@
-dams
+GGGI
 ====
 
 Vietnam Dams Project
 
 Files Included:
-- Dams.bib - for literature review materials 
+- Dams.bib - reference file
 - *.tex - draft manuscript (TBC) 
-- 
+
+Renewable energy for Development project
+
+Files included: 
+- global.bib - reference file
