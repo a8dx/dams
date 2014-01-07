@@ -10,4 +10,4 @@ Files Included:
 Renewable energy for Development project
 
 Files included: 
-- global.bib - reference file
+- renewable.bib - reference file
