@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.29)  31 MAY 2014 11:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.29)  1 JUN 2014 00:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -519,20 +519,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-]
-
-Package natbib Warning: Citation `Vastila:2010bz' on page 3 undefined on input 
-line 78.
-
-[3]
-
-Package natbib Warning: Citation `Pittock:2011fv' on page 4 undefined on input 
-line 85.
-
-[4] [5]
+] [3] [4] [5]
 \openout3 = `waterinVietnam.fff'.
 
- (waterinVietnam.fff) [6] [7] [8]
+
+(waterinVietnam.fff) [6] [7] [8]
 LaTeX Font Info:    Try loading font information for OMS+aer on input line 252.
 
 
@@ -542,14 +533,11 @@ File: omsaer.fd 1999/12/27
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 252.
  [9]
-(./waterinVietnam.bbl)
+(./waterinVietnam.bbl) AED endfloat: Processing end Figures and Tables [10
 
-Package natbib Warning: There were undefined citations.
-
-AED endfloat: Processing end Figures and Tables [10
-
-] (./waterinVietnam.fff
-<Displays/discharge_time.pdf, id=131, 505.89pt x 505.89pt>
+]
+(./waterinVietnam.fff
+<Displays/discharge_time.pdf, id=141, 505.89pt x 505.89pt>
 File: Displays/discharge_time.pdf Graphic file (type pdf)
 
 <use Displays/discharge_time.pdf>
@@ -561,7 +549,7 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 2--4
  []
 
 [11 <./Displays/discharge_time.pdf>]
-<Displays/bottom-year.pdf, id=210, 505.89pt x 505.89pt>
+<Displays/bottom-year.pdf, id=219, 505.89pt x 505.89pt>
 File: Displays/bottom-year.pdf Graphic file (type pdf)
 
 <use Displays/bottom-year.pdf>
@@ -573,7 +561,7 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 9--11
  []
 
 [12 <./Displays/bottom-year.pdf>]
-<Displays/difference-year.pdf, id=285, 505.89pt x 505.89pt>
+<Displays/difference-year.pdf, id=294, 505.89pt x 505.89pt>
 File: Displays/difference-year.pdf Graphic file (type pdf)
 
 <use Displays/difference-year.pdf>
@@ -585,13 +573,13 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 16--18
  []
 
 [13 <./Displays/difference-year.pdf>]
-<displays/loggen.pdf, id=356, 505.89pt x 505.89pt>
+<displays/loggen.pdf, id=365, 505.89pt x 505.89pt>
 File: displays/loggen.pdf Graphic file (type pdf)
  <use displays/loggen.pdf>
 Package pdftex.def Info: displays/loggen.pdf used on input line 23.
 (pdftex.def)             Requested size: 216.81pt x 216.81056pt.
 
-<displays/correlation.pdf, id=357, 341.275pt x 294.09875pt>
+<displays/correlation.pdf, id=366, 341.275pt x 294.09875pt>
 File: displays/correlation.pdf Graphic file (type pdf)
 
 <use displays/correlation.pdf>
@@ -608,13 +596,13 @@ Package rerunfilecheck Info: File `waterinVietnam.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 267.
  ) 
 Here is how much of TeX's memory you used:
- 8753 strings out of 493308
- 123958 string characters out of 6137816
- 217114 words of memory out of 5000000
- 11960 multiletter control sequences out of 15000+600000
+ 8763 strings out of 493308
+ 124177 string characters out of 6137816
+ 217267 words of memory out of 5000000
+ 11967 multiletter control sequences out of 15000+600000
  34653 words of font info for 85 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,14n,39p,1124b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,14n,39p,1123b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -627,10 +615,10 @@ exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texl
 ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
 e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on waterinVietnam.pdf (14 pages, 486406 bytes).
+Output written on waterinVietnam.pdf (14 pages, 489596 bytes).
 PDF statistics:
- 427 PDF objects out of 1000 (max. 8388607)
- 340 compressed objects within 4 object streams
- 47 named destinations out of 1000 (max. 500000)
+ 437 PDF objects out of 1000 (max. 8388607)
+ 350 compressed objects within 4 object streams
+ 50 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,53 +1,52 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: waterinVietnam.aux
-The style file: ../papers/apsr2.bst
-White space in argument---line 36 of file waterinVietnam.aux
- : \bibdata{../papers/dams,
- :                          ../papers/ald_ref}
-I'm skipping whatever remains of this command
-Database file #1: ../papers/dams.bib
-Warning--I didn't find a database entry for "Vastila:2010bz"
-Warning--I didn't find a database entry for "Pittock:2011fv"
-You've used 4 entries,
+The style file: ../apsr2.bst
+Database file #1: ../dams.bib
+Warning--string name "june" is undefined
+--line 168 of file ../dams.bib
+Warning--I'm ignoring WorldBank2014's extra "author" field
+--line 173 of file ../dams.bib
+Database file #2: ../ald_ref.bib
+You've used 7 entries,
             2903 wiz_defined-function locations,
-            678 strings with 5860 characters,
-and the built_in function-call counts, 31182 in all, are:
-= -- 5152
-> -- 474
+            698 strings with 6330 characters,
+and the built_in function-call counts, 44989 in all, are:
+= -- 7443
+> -- 640
 < -- 0
-+ -- 2564
-- -- 149
-* -- 2817
-:= -- 6016
-add.period$ -- 16
-call.type$ -- 4
-change.case$ -- 52
-chr.to.int$ -- 4
-cite$ -- 4
-duplicate$ -- 60
-empty$ -- 151
-format.name$ -- 158
-if$ -- 5639
++ -- 3651
+- -- 202
+* -- 4007
+:= -- 8757
+add.period$ -- 28
+call.type$ -- 7
+change.case$ -- 91
+chr.to.int$ -- 7
+cite$ -- 7
+duplicate$ -- 101
+empty$ -- 236
+format.name$ -- 216
+if$ -- 8123
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 19
-num.names$ -- 47
-pop$ -- 8
+missing$ -- 6
+newline$ -- 32
+num.names$ -- 80
+pop$ -- 22
 preamble$ -- 1
-purify$ -- 60
+purify$ -- 105
 quote$ -- 0
-skip$ -- 57
+skip$ -- 94
 stack$ -- 0
-substring$ -- 7488
-swap$ -- 8
-text.length$ -- 56
+substring$ -- 10724
+swap$ -- 13
+text.length$ -- 98
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
+type$ -- 28
 warning$ -- 0
-while$ -- 91
+while$ -- 162
 width$ -- 0
-write$ -- 62
-(There was 1 error message)
+write$ -- 103
+(There were 2 warnings)
