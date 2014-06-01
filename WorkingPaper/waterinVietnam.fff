@@ -1,0 +1,29 @@
+\begin{figure}
+\includegraphics{Displays/discharge_time.pdf}
+\label{discharge}
+\caption{Mean Annual Discharge Rates for Mekong Basin (m$^3 s^{-1})$}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\includegraphics{Displays/bottom-year.pdf}
+\label{bottom}
+\caption{Minimum, Mean, and Maximum Yearly Streamflow for XXXX, Vietnam (m$^3 s^{-1})$}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\includegraphics{Displays/difference-year.pdf}
+\label{diff}
+\caption{Minimum, Mean, and Maximum Yearly Streamflow Difference, XXXX, Vietnam,  (m$^3 s^{-1})$}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\includegraphics[width=3in]{displays/loggen.pdf}
+\includegraphics[width=3in]{displays/correlation.pdf}
+\label{fig:loggen}
+\caption{Electricity Production and Streamflow (further details later)}
+\end{figure}
+\efloatseparator
+ 
