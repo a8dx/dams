@@ -1,0 +1,5 @@
+# Ignore latex intermediate files
+*.aux
+*.fff
+*.log
+*.out
